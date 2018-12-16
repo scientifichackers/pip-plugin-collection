@@ -38,4 +38,5 @@ General Options:
 
 Made using [plugingen](https://github.com/pycampers/plugingen).
 
-(This is a proof of concept for a [fork](https://github.com/devxpy/pip) of `pip` that supports plugins.)
+(This is a prof of concept for a [fork](https://github.com/devxpy/pip) of `pip` that supports plugins. Follow discussion [here](https://github.com/pypa/pip/issues/4551).)
+
